@@ -37,6 +37,3 @@ This is a **full-stack To-Do Task Tracker** built with **React.js**, **Node.js**
    cd client
    npm start
    ```  
-   
-### 📌 Contributions & Feedback  
-Feel free to fork, contribute, or provide feedback! 🚀
