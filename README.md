@@ -17,8 +17,8 @@ This is a **full-stack To-Do Task Tracker** built with **React.js**, **Node.js**
 ### 🔧 Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+   git clone https://github.com/VagishM6/task-tracker.git
+   cd task-tracker
    ```
 2. Install dependencies for both client and server:  
    ```bash
